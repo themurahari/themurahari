@@ -3,7 +3,7 @@
 I design and build scalable design systems, intelligent UI tooling, and developer-friendly plugins that bridge the gap between design and engineering.<br>My focus is turning design thinking into production-ready systems, automation, and AI-powered workflows.<br><br>
 
 ### 🚀 I'm currently working on
-Magnetic Design System<br>- AI Assistant Widget<br>- Figma AI Plugins<br><br>
+- Magnetic Design System<br>- AI Assistant Widget<br>- Figma AI Plugins<br><br>
 
 ### 🌱 I'm currently learning
 AI-powered UI generation & Design Agents (LLMs + multimodal + codegen)<br>(building autonomous design tools that convert prompts → components → production code)<br><br>
