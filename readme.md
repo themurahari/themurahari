@@ -1,6 +1,15 @@
 # 💫 About Me:
 ### 👋 Hi, I'm a Design Engineer
-I design and build scalable design systems, intelligent UI tooling, and developer-friendly plugins that bridge the gap between design and engineering.<br>My focus is turning design thinking into production-ready systems, automation, and AI-powered workflows.<br><br>🚀 I'm currently working on<br>- Magnetic Design System<br>- AI Assistant Widget<br>- Figma AI Plugins<br><br>🌱 I'm currently learning<br>AI-powered UI generation & Design Agents (LLMs + multimodal + codegen)<br>(building autonomous design tools that convert prompts → components → production code)<br><br>💬 Ask me about<br>- Design Systems architecture<br>- Design tokens & theming<br>- Figma plugin development<br>- Design → Code automation<br>- AI for designers & developers<br>- Frontend engineering for scalable UI<br><br>⚡ Fun fact<br>I enjoy turning repetitive design tasks into one-click automations — if I do something twice, I probably build a plugin for it.
+I design and build scalable design systems, intelligent UI tooling, and developer-friendly plugins that bridge the gap between design and engineering.<br>My focus is turning design thinking into production-ready systems, automation, and AI-powered workflows.<br><br>
+
+### 🚀 I'm currently working on
+Magnetic Design System<br>- AI Assistant Widget<br>- Figma AI Plugins<br><br>
+
+### 🌱 I'm currently learning
+AI-powered UI generation & Design Agents (LLMs + multimodal + codegen)<br>(building autonomous design tools that convert prompts → components → production code)<br><br>
+
+### 💬 Ask me about
+Design Systems architecture<br>- Design tokens & theming<br>- Figma plugin development<br>- Design → Code automation<br>- AI for designers & developers<br>- Frontend engineering for scalable UI<br><br>⚡ Fun fact<br>I enjoy turning repetitive design tasks into one-click automations — if I do something twice, I probably build a plugin for it.
 
 
 # 💻 Tech Stack:
